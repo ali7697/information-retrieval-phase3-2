@@ -1,1 +1,2 @@
 # information-retrieval-phase3-2
+In the second part of this phase 3, I have implemented the K-nearest-neighbors algorithm. Using the algorithm and the collection of 50,000 news articles, supervised learning of the news classes is done. During search time, the user specifies which of the category of the news they consider for searching, and the search is only done in that specific class of the news.  
